@@ -56,12 +56,12 @@ This project is being documented as part of the Hack Club Macondo hardware progr
 | Wood             | Complete    |
 | Truss Rod        | Installed   |
 | Humbucker Pickup | Available   |
-| Bridge           | Available   |
+| Bridge           | To install  |
 | Tuners           | To install  |
 | Strings          | To install  |
 | Pots             | To install  |
-| Output Jack      | To install  |
-| Wire             | To install  |
+| Output Jack      | Available   |
+| Wire             | Available   |
 | Paint / Finish   | In Progress |
 ----------------------------------
 ---
